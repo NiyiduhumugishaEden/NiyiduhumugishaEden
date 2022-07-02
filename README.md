@@ -2,9 +2,8 @@
   <b>Eden trips</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+Heya! I'm Niyiduhumugisha Eden, a student at Rwanda coding Academy, Rwanda. 
+and l learning programming through small projects  on the side.
 
 <br>
 
@@ -49,9 +48,9 @@ if __name__ == '__main__':
 
 ## My Statistics
 
-<br/>
+<!-- <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
   </a>
@@ -60,7 +59,7 @@ if __name__ == '__main__':
 
 [![Eden Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-------
+------ -->
 
 Credit: [eden](https://github.com/NiyiduhumugishaEden)
 
