@@ -23,7 +23,7 @@ class Eden():
     self.username = "NiyiduhumugishaEden";
     self.location = "Kigali, Rwanda";
     self.twitter = "@eden";
-    self.web = "https://abhigyantrips.dev";
+    
   
   def __str__(self):
     return self.name
